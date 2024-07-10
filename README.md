@@ -5,7 +5,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/DhruvSinha2003/gre-flashcards.git
 Navigate to the project directory:
 bash
 Copy code

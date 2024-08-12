@@ -10,7 +10,7 @@ This is a simple flashcard application built with React. It displays random comm
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd gre-flashcards
     ```
 3. Install the dependencies:
     ```bash
